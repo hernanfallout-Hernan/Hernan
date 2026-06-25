@@ -1,0 +1,4 @@
+C:\Users\Usuario\source\repos\SUBE2\SUBE2\obj\Debug\net10.0\SUBE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SUBE2\SUBE2\obj\Debug\net10.0\SUBE2.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SUBE2\SUBE2\obj\Debug\net10.0\SUBE2.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SUBE2\SUBE2\obj\Debug\net10.0\SUBE2.csproj.CoreCompileInputs.cache
